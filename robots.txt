@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://https://github.com/edyvelazquez320/genoxidl-las-originales-coyun-acidohialuronico/edit/main/robots.txtTUUSUARIO.github.io/productos-naturales/sitemap.xml
